@@ -1,0 +1,16 @@
+.main{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10rem;
+}
+
+
+.container{
+background-color: aqua;
+display: flex;
+justify-content: space-around;
+align-items: center;
+height: 200px;
+width: 250px;
+
+}
